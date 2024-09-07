@@ -1,0 +1,21 @@
+/* colors */
+
+/*
+60% of #0E17F1 Primary
+30% of #0E88F1 Secondary
+10% of #770EF1 Accent 
+*/
+
+ :root {
+
+ /* var(--dominantColor) !important; */ 
+--dominantColor: #0E17F1;
+
+/* var(--secondaryColor) !important; */ 
+--secondaryColor: #0E88F1;
+
+/* var(--accentColor) important; */ 
+--accentColor: #770EF1;
+
+}
+ 
