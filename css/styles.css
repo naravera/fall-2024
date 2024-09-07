@@ -2,10 +2,10 @@
 @import 'main.css';
 
 .test-font {
-Color:var(--dominantColor) important;;
+Color:var(--dominantColor) !important;;
 }
 
 
 .test-font2 {
- Color: var(--dominantColor) important;;
+ Color: var(--dominantColor) !important;;
  }
