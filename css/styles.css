@@ -1,11 +1,3 @@
 @import 'global.css';
 @import 'main.css';
 
-.test-font {
-Color: var(--dominantColor) !important;;
-}
-
-
-.test-font2 {
- Color: var(--dominantColor) !important;;
- }
