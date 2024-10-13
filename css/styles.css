@@ -71,9 +71,10 @@ margin-right: auto;
    padding-bottom: 30px;
 }
 
-@media screen {
-    .schedule-section {
-        width: 100%;
-        display: none;
-     }
+@media screen and (max-width: 768px) {
+.first-paragrahp-img {
+    width: 100%;
+    display: none;
+} 
+ 
 }
