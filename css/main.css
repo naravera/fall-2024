@@ -72,3 +72,14 @@ blockquote {
     color: var(--secondaryColor) !important;
 
 }
+
+blockquote::before{
+display: block;
+padding-left: 10px;
+content: "";
+font-size: 80px;
+position: absolute;
+left: -20px;
+top: -20px;
+color: var(--secondaryColor) !important;
+}
